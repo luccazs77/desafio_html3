@@ -1,0 +1,67 @@
+.buton-cadastro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    border: none;
+    background-color: #ffffff;
+
+}
+.span{
+    display: block;
+    text-align: center;
+    margin-right: 20px;
+}
+
+p,h2{
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 328px;
+    height: 40px;
+    border-radius: 5px;
+    border-width: medium;
+    border-style: solid;
+    border-color: #DBDCDD;
+    
+}
+
+.pp{
+    color: #4D4D4D;
+}
+
+.butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bt{
+    width: 230px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top:300px;
+    background-color:#E6E6E6 ;
+}
+
+.bt:hover{
+    background-color:#173EA5 ;
+}
+
+a{
+    text-decoration: none;
+    color: #999999;
+}
+
+a:hover{
+    color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+    color: #999999;
+}

@@ -1,0 +1,90 @@
+.buton-cadastro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+button{
+    border: none;
+    background-color: #ffffff;
+
+}
+.span{
+    display: block;
+    text-align: center;
+    margin-right: 20px;
+}
+
+p,h2{
+    text-align: center;
+}
+
+.form-input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label{
+    margin-right: 290px;
+    margin-top: 30px;
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 328px;
+    height: 40px;
+    border-radius: 5px;
+    border-width: medium;
+    border-style: solid;
+    border-color: #DBDCDD;
+    
+}
+
+.pp{
+    color: #4D4D4D;
+}
+
+.butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bt{
+    width: 230px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top:200px;
+    background-color:#E6E6E6 ;
+}
+
+.bt:hover{
+    background-color: #173EA5;
+    color: #ffffff;
+}
+
+
+a{
+    text-decoration: none;
+    color: #999999;
+    
+}
+.aa:hover{
+    color: #ffffff;
+}
+
+.esqueceu-senha{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: #173EA5;
+}
+
+.form-control small {
+    visibility: hidden;
+    position: absolute;
+    margin-top: 5px;
+    font-size: 14px
+}
